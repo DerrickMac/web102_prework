@@ -24,7 +24,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/mBAKRiub.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' loop=infinite />
+<img src='https://i.imgur.com/mBAKRiu.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' loop=infinite />
 
 GIF created with LiceCap  
 
